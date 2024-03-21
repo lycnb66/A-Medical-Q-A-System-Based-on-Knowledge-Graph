@@ -1,0 +1,19 @@
+model init finished ......
+ * Serving Flask app "Flask" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:8088/ (Press CTRL+C to quit)
+10.108.115.238 - - [24/Oct/2020 19:14:09] "[37mOPTIONS /qa HTTP/1.1[0m" 200 -
+10.108.115.238 - - [24/Oct/2020 19:14:09] "[37mPOST /qa HTTP/1.1[0m" 200 -
+10.108.115.238 - - [24/Oct/2020 19:14:14] "[37mOPTIONS /qa HTTP/1.1[0m" 200 -
+10.108.115.238 - - [24/Oct/2020 19:14:15] "[37mPOST /qa HTTP/1.1[0m" 200 -
+10.108.112.49 - - [24/Oct/2020 19:16:06] "[37mOPTIONS /qa HTTP/1.1[0m" 200 -
+10.108.112.49 - - [24/Oct/2020 19:16:06] "[37mPOST /qa HTTP/1.1[0m" 200 -
+10.108.112.49 - - [24/Oct/2020 19:16:07] "[37mPOST /qa HTTP/1.1[0m" 200 -
+10.108.112.49 - - [24/Oct/2020 19:16:10] "[37mPOST /qa HTTP/1.1[0m" 200 -
+10.28.193.91 - - [24/Oct/2020 19:17:30] "[37mOPTIONS /qa HTTP/1.1[0m" 200 -
+10.28.193.91 - - [24/Oct/2020 19:17:30] "[37mPOST /qa HTTP/1.1[0m" 200 -
+10.28.193.91 - - [24/Oct/2020 19:17:40] "[37mOPTIONS /qa HTTP/1.1[0m" 200 -
+10.28.193.91 - - [24/Oct/2020 19:17:40] "[37mPOST /qa HTTP/1.1[0m" 200 -
